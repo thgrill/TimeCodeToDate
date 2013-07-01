@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TimeCodeToDate' target in the 'TimeCodeToDate' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
